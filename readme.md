@@ -1,7 +1,8 @@
 # 人工智能入门实验
 ## 1.实验环境         
 Windows 10 + tensorflow-gpu + Anaconda3.4.2.0（Python 3.5） [ 安装tensorflow-cpu也可以 ]     
-安装流程请参考：***01实验环境准备-TensorFlow开发环境搭建.pdf***
+安装流程请参考：***01实验环境准备-TensorFlow开发环境搭建.pdf***      
+</br>
 
 ## 2.实验内容
 ### 2.1 minist手写数字识别         
