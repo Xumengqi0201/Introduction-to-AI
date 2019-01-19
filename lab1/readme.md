@@ -14,7 +14,7 @@ MINIST数据集是手写数字的数据库，有60000个训练样本集和10000�
 
 ![model](https://github.com/Xumengqi0201/Introduction-to-AI/blob/master/lab1/logistic-regression.png?raw=true)
 
-用MBGD的方法更新W和b，激活函数为sigmoid函数，经过softmax，输出层y0-y9分别代表了数字为0-9的概率，取概率最高的数字所在的下标就是该模型的预测值。
+用MBGD的方法更新W和b，经过softmax变换到达输出层。y0-y9分别代表了数字为0-9的概率，取概率最高的数字所在的下标就是该模型的预测值。
 
 训练集上的准确率达到90%的时候保存模型。之后，加载训练好的模型在测试集上进行测试。
 
